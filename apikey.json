@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "glass-chemist-175803",
+  "private_key_id": "6a9c76889f3611b28cd45727a59b9e20cfef54a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCLZkupoEidg5cO\ngz9ZsYQUq7BZG4eQq7shLp0gHaqKJ1MFCtcmrmzQvjOzso3JHbTNSvo6OhTS1DbK\nrTu1XhfE2K2K0VG8VCImvJ+2LycZdMbRFRMewGDsOdkqiI8jwEKRNpvf7CWcSzJk\nd5OnSfRCam3d6rI8RVrOK5vrJ4dHUpLYgMY+OVwL/7zCU9ti+Y+wUgn047YE672u\nVr6om0xCCVjfBSNgjuERxPTFbk7pbYVgD16EzcfDOM/EPUcONlN9ybblUfGZtF6d\nd+JG2hN/Sn2OqD0bWuhJ82ZCR49VPYiaNfWRkytew9yexibQIKC6gDIIFn7Mv7O6\nRCl1HSfTAgMBAAECggEAMrpKJHNAmZluWginABPaVc9YwESFY78qvNuCsFI7YkUH\nMBmOy/PDg38Dv4vljt9xkReM0a2bMFGrkrvRs6GHEsoq9Q5RKTCQsPoJQLoOB3R4\neVOq/pDRdIVkotbJCCCJ2OA/fxAna6Xts6PUJpeB/L1QN+aVb9tpPQefmMZssyYu\n52i5ah0K+tgMtzPLsCYPXOhZC2L5IZZslOhqAQMNf2UA7sxik8GXdnfJVtIC1xyH\nXbEUvktv5LrEKl4QIQ0SGq39cjZYRnSnTAzUPnYgf2JA8XLxeM6a11DkMp8XH0lQ\nS6KlWACfYFpR4HLXQ0k6x50KOV6NWRt6PfBUQxoPCQKBgQDAwQyYmWwX1UMVvvd1\n6aoeVTVj6dQGUt7YghIoDy1lf5F4axLixKuxUT6h1lkhkb649DRscths5TS3zpKW\nM+89cT7fWgJRX7LYxWYAEiUD4yf7OChx9pO0gyUt9oPBAgRI9p/ndePCE824CKfE\naSEYyPxsm1sgF8/oSYhhBvIn/QKBgQC5I5OkYyLDbRK5VW3cswJl3uNZlhnpExTj\n71czzBKZ/ptLzswT2IXs6Nb2G9cw1G6HGPNA/qVJWOThMTp4W3jvISPpDKvRFIBc\nXshiJMuSL51by2gX39pd2EMhnqw5xToXIPDYYGJr6YfIOJg4fqEtOviHYyuOXsvt\nj1diPzEQDwKBgQC3I7UQGFV3n40J0FPWmJimEVeVAsoM6BgLpioSHbmIQli5DSL4\nityGsSbNJZeyKYQIvx5AHC496NjZ+0+TnuykeEDAfgjNwBtxkryDPLomo2GNc6Ia\nBan5TNG6hgpRC9V+bbUoef5Ym/BN9wtPtoNXxT7xAfrm1zkW/yaw6aSTEQKBgDOO\n58/w176KwpsgYl8C7xkFkFTji0WwTbIIdkVzgH6oPAFJjuW799f5I9wX9r6fekRf\nO2cPQ2KAwgTAm+LmvnABz6lYIQUx62lN8An860BDyFPG+q8jZQGbd16GfLn95eaJ\nAumPNfmNaIXm1OVuxl39PTce9ANK/QmkUJaIuJYbAoGBALHNvDU4YYrrAHZawSoR\n+HRte+7adfeGJY+JJOekzWAwsWTRIqHNpgguKZc+2YfqfG7fb3xECOS146vJB9z1\n7Ac9MYvkWpK7gxclixFryvuer4tVfTk44WlXkhveJP6oojDHeiY59+AcmYw0vreh\nT/CxDaFMntvLCIIj1JejZLlo\n-----END PRIVATE KEY-----\n",
+  "client_email": "sentimentanalysis@glass-chemist-175803.iam.gserviceaccount.com",
+  "client_id": "104068204468457520040",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sentimentanalysis%40glass-chemist-175803.iam.gserviceaccount.com"
+}
